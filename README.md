@@ -1,2 +1,1 @@
-# pizza-me
-Pizza Website Assignment
+# jennythinkful.github.io
